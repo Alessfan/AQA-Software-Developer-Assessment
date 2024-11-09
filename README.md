@@ -1,5 +1,3 @@
-# AQA-Software-Developer-Assessment
-“Assessment for Software Developer Candidates at AQA
 # AQA Software Developer Assessment
 
 Welcome to the AQA Software Developer assessment! This test assesses your skills in .NET, C#, SQL, API development, and unit testing. It includes a mix of tasks related to front-end and back-end development, REST APIs, and more.
